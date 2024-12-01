@@ -1,3 +1,5 @@
+#respberry flash led 
+# led + connect pin 1(3.3v)  ,- connect pin 11 (GPIO 17)
 import RPi.GPIO as GPIO
 import time
 
